@@ -9,7 +9,7 @@ function menuDisplay(){
                                 </h2>
                                 <div class="container">
                                     <div class='card'>
-                                        <img class='img' src="./img/phobo.jpg" alt="image of Pho">
+                                        <img class='img' src="img/phobo.jpg" alt="image of Pho">
                                         <div class='info'>
                                             <h3>Pho Bo</h3>
                                             <p>Rare Beef Noodle Soup</p>
@@ -17,7 +17,7 @@ function menuDisplay(){
                                     </div>
 
                                     <div class='card'>
-                                        <img class='img' src="./img/bunbohue.jpeg" alt="imgage of Bun Bo Hue">
+                                        <img class='img' src="img/bunbohue.jpeg" alt="imgage of Bun Bo Hue">
                                         <div class='info'>
                                             <h3>Bun Bo Hue</h3>
                                             <p>Spicy Beef & Pork Noodle Soup</p>
@@ -25,7 +25,7 @@ function menuDisplay(){
                                     </div>
 
                                     <div class='card'>
-                                        <img class='img' src="./img/comsuon.jpeg" alt="imgage of Com Suon">
+                                        <img class='img' src="img/comsuon.jpeg" alt="imgage of Com Suon">
                                         <div class='info'>
                                             <h3>Com Suon</h3>
                                             <p>Vietnamese Spicy Beef Rice</p>
@@ -33,7 +33,7 @@ function menuDisplay(){
                                     </div>
                                     
                                     <div class='card'>
-                                        <img class='img' src="./img/banhmithit.jpg" alt="imgage of banh mi">
+                                        <img class='img' src="img/banhmithit.jpg" alt="imgage of banh mi">
                                         <div class='info'>
                                             <h3>Banh Mi Thit</h3>
                                             <p>Vietnamese Spicy Beef & Pork Sandwich</p>
@@ -41,7 +41,7 @@ function menuDisplay(){
                                     </div>
                                     
                                     <div class='card'>
-                                        <img class='img' src="./img/caphesuada.jpeg" alt="imgage of ca phe">
+                                        <img class='img' src="img/caphesuada.jpeg" alt="imgage of ca phe">
                                         <div class='info'>
                                             <h3>Ca Phe Sua Da</h3>
                                             <p>Vietnamese Special Milk Coffee</p>

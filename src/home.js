@@ -2,7 +2,7 @@
 function homeDisplay(){ 
     const home = document.querySelector('.content');
     home.innerHTML = `<header class="home-header">
-                        <div class="logo"><a href='index.html'><img src="./img/logo.png" alt="logo"></a></div>
+                        <div class="logo"><a href='index.html'><img src="img/logo.png" alt="logo"></a></div>
                         <div class="navbar">
                             <nav id="home">HOME</nav>
                             <nav id="menu">MENU</nav>
