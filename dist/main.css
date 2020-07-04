@@ -52,7 +52,7 @@ body{
     margin: auto;
     top: 20%;
     color: white;
-    line-height: 4rem;
+    line-height: 3rem;
     font-size: 20px;
     background: rgba(0, 0, 0, 0.8);
 }
@@ -97,8 +97,8 @@ h2::after{
 }
 
 .card{
-    width: 280px;
-    height: 360px;
+    width: 13rem;
+    height: 20rem;
     border-radius: 15px;
     padding: 1.5rem;
     background: white;
